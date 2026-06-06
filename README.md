@@ -8,9 +8,10 @@ Scans your Linux and Windows servers against all
 NIS2 Article 21 controls and produces an 
 auditor-ready PDF report.
 
-## Real scan results
-[embed screenshot of Linux 77/100 PDF cover page]
-[embed screenshot of Windows 10/100 PDF cover page]
+## Sample Reports
+Two real scan reports are included in this repository:
+- nis2scan_linux_45score.pdf — Ubuntu server scan
+- nis2scan_windows_10score.pdf — Windows Server 2025 scan
 
 ## Supported platforms
 - Ubuntu / Debian Linux
